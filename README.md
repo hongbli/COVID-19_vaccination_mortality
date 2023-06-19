@@ -14,7 +14,7 @@ vaccination_mortality.do
 
 1. summarized_vac.dta & vac_pop.dta
    1. Figure2: monthly vaccination rate in China; monthly vaccination rate by age groups
-2. vaccination_mortality_deidentified.dta
+2. vaccination_mortality_deidentified.dta (You may unzip the file first)
    1. Table1, Table2
    2. Figure3, FigureS1
    3. TableS1, TableS2, TableS3, TableS4
